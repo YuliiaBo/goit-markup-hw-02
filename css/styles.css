@@ -54,8 +54,8 @@ body {
   letter-spacing: 0.02em;
   color: var(--second-colour);
 }
-.contact:hover:focus {
-  background: var(--btn-background-colour);
+.contact:hover {
+  color: var(--btn-background-colour);
 }
 
 .hero {
